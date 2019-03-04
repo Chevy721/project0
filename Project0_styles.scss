@@ -1,0 +1,15 @@
+
+ul
+  {
+    li::before {
+      content: "➡ ";}
+
+    li {
+      font-size: 21px;}
+  }
+
+#globe
+  {
+  width: 50%;
+  height:50%;
+  }

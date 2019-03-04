@@ -1,0 +1,11 @@
+@charset "UTF-8";
+ul li::before {
+  content: "➡ "; }
+ul li {
+  font-size: 21px; }
+
+#globe {
+  width: 50%;
+  height: 50%; }
+
+/*# sourceMappingURL=Project0_styles.css.map */

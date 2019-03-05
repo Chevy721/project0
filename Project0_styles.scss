@@ -33,7 +33,7 @@ ul
     padding-top: 5%;
   }
 
-@media only screen and (max-width: 600px)
+@media only screen and (min-width: 300px)
   {
-  background-color: lightgrey;
+  background-color: red;
   }

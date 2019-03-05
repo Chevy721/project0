@@ -21,4 +21,7 @@ ul li {
   padding-left: 10%;
   padding-top: 5%; }
 
+@media only screen and (max-width: 600px) {
+  background-color: light-grey; }
+
 /*# sourceMappingURL=Project0_styles.css.map */

@@ -8,4 +8,17 @@ ul li {
   width: 50%;
   height: 50%; }
 
+.header {
+  font-weight: bold;
+  font-style: italic; }
+
+.col-sm-2 {
+  text-align: center;
+  border: solid;
+  border-color: black;
+  border-width: 1px; }
+
+.row {
+  text-align: center; }
+
 /*# sourceMappingURL=Project0_styles.css.map */

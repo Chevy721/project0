@@ -21,7 +21,7 @@ ul li {
   padding-left: 10%;
   padding-top: 5%; }
 
-@media (max-width: 800px) {
+@media (max-width: 1130px) {
   body {
     background-color: #b4bac4; } }
 

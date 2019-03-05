@@ -21,7 +21,8 @@ ul li {
   padding-left: 10%;
   padding-top: 5%; }
 
-@media only screen and (min-width: 300px) {
-  background-color: red; }
+@media (max-width: 800px) {
+  body {
+    background-color: #b4bac4; } }
 
 /*# sourceMappingURL=Project0_styles.css.map */

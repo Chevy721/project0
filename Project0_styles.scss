@@ -20,13 +20,15 @@ ul
     font-style: italic;
   }
 
-.col-4
+.col-5
   {
-
     outline: solid 1px black;
+    white-space: nowrap;
   }
 
 .row
   {
     text-align: center;
+    padding-left: 10%;
+    padding-top: 5%;
   }

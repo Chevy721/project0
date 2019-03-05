@@ -12,10 +12,13 @@ ul li {
   font-weight: bold;
   font-style: italic; }
 
-.col-4 {
-  outline: solid 1px black; }
+.col-5 {
+  outline: solid 1px black;
+  white-space: nowrap; }
 
 .row {
-  text-align: center; }
+  text-align: center;
+  padding-left: 10%;
+  padding-top: 5%; }
 
 /*# sourceMappingURL=Project0_styles.css.map */
